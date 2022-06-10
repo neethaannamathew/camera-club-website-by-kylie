@@ -1,0 +1,72 @@
+#menu{
+    list-style:none;
+   cursor:pointer;
+    position: fixed;
+    margin: 0;
+    padding:10px;
+    width:100%;
+    background-color:rgb(106, 106, 98);
+    z-index: 10;
+
+}
+.mitems{
+    display:inline-block;
+    padding:5px 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#main{
+background-color:gray;
+width:100%;
+height: 300px;
+background-position: center;
+background-repeat:no-repeat;
+padding:50px;
+background-size: cover;
+z-index: 9;
+
+}
+#maintitle{
+    font-family: 'Work Sans', sans-serif;
+    font-size:55px;
+    color:white;
+}
+.title2{
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: underline;
+}
+#mainpage{
+    margin:0;
+    background-color: beige;
+}
+#my_carousel{
+    margin:50px;
+}
+img{
+    width:1000px;
+    height:700px;
+}
+.pfp{
+    width:270px;
+    height:230px;
+    border-radius: 33px;
+}
+.kid_div{
+    border-radius: 33px;
+    text-align: center;
+    padding-top: 50px;
+}
+.names{
+    font-size: 20px;
+    text-decoration: underline;
+}
+#kylie{
+    width:250px;
+    height:300px;
+    border-radius: 33;
+}
+ul li:hover{
+background-color: mintcream;
+font-size:28px;
+transition: 0.6s ease;
+}
