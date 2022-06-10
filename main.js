@@ -7,9 +7,7 @@ alert('Access granted. Click Ok to view webpage.');
 else{
     window.location="https://www.google.com/";
 }
-function homepage(){
-    window.location="index.html";
-}
+
 
 function credits(){
     window.location="credits.html";

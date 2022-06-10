@@ -30,10 +30,11 @@ z-index: 9;
     font-family: 'Work Sans', sans-serif;
     font-size:55px;
     color:white;
+    text-decoration: underline;
 }
 .title2{
     font-family: 'Work Sans', sans-serif;
-    text-decoration: underline;
+    
 }
 #mainpage{
     margin:0;
@@ -63,7 +64,7 @@ img{
 #kylie{
     width:250px;
     height:300px;
-    border-radius: 33;
+    border-radius: 33px;
 }
 ul li:hover{
 background-color: mintcream;
